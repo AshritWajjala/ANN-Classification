@@ -7,9 +7,6 @@ env/
 # Jupyter and Python
 __pycache__/
 *.ipynb_checkpoints/
-*.pkl
-*.h5
-*.keras
 
 # OS & IDE junk
 .DS_Store
